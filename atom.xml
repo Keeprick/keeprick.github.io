@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://keeprick.github.io</id>
     <title> Keep Rick</title>
-    <updated>2020-03-07T03:44:20.246Z</updated>
+    <updated>2020-03-07T03:47:20.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://keeprick.github.io"/>
     <link rel="self" href="https://keeprick.github.io/atom.xml"/>
@@ -11,13 +11,12 @@
     <icon>https://keeprick.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020,  Keep Rick</rights>
     <entry>
-        <title type="html"><![CDATA[Test1]]></title>
-        <id>https://keeprick.github.io/post/test1/</id>
-        <link href="https://keeprick.github.io/post/test1/">
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://keeprick.github.io/post/test/</id>
+        <link href="https://keeprick.github.io/post/test/">
         </link>
-        <updated>2020-03-07T03:43:24.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://keeprick.github.io/post-images/1583552631349.jpg" alt="" loading="lazy"><br>
-记录生活点滴</p>
+        <updated>2020-03-07T03:47:01.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://keeprick.github.io/post-images/1583552831951.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
