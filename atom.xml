@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://keeprick.github.io</id>
     <title> Keep Rick</title>
-    <updated>2020-03-07T04:06:24.873Z</updated>
+    <updated>2020-03-07T04:28:41.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://keeprick.github.io"/>
     <link rel="self" href="https://keeprick.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://keeprick.github.io/images/avatar.png</logo>
     <icon>https://keeprick.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020,  Keep Rick</rights>
+    <entry>
+        <title type="html"><![CDATA[始于2020年3月6日晚]]></title>
+        <id>https://keeprick.github.io/post/shi-yu-2020-nian-3-yue-6-ri-wan/</id>
+        <link href="https://keeprick.github.io/post/shi-yu-2020-nian-3-yue-6-ri-wan/">
+        </link>
+        <updated>2020-03-07T04:22:04.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>    结束了晚上的吃鸡大赛，ZT在群里发出恐慌指数大涨的信息，猛然想起年初判断的今年是动荡的一年，加之年初的冠状肺炎可能全球蔓延，所有想着可以关注下恐慌指数UVIX，或者做做波段。
+
+    计划的是UVIX降到10左右，就买入，持仓等，因为10已经很低，并且我最后关注的时候记得是在16左右徘徊，所以有机会降到10的，当时是有这个想法，因为美股本身关注的不多，长期持有只是偶尔看下，关键是已经有目标，就应该制定提醒或者固定每天或者每几天看一下，结果措施了UVIX到10加仓的机会，大约在2月28就是10，现在一周时间已经到36左右。3.5倍的机会放在这里。</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>https://keeprick.github.io/post/test/</id>
