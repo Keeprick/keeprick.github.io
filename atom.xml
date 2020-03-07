@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://keeprick.github.io</id>
     <title> Keep Rick</title>
-    <updated>2020-03-07T12:20:45.368Z</updated>
+    <updated>2020-03-07T15:42:28.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://keeprick.github.io"/>
     <link rel="self" href="https://keeprick.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://keeprick.github.io/images/avatar.png</logo>
     <icon>https://keeprick.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020,  Keep Rick</rights>
+    <entry>
+        <title type="html"><![CDATA[Better Call Saul Season 5]]></title>
+        <id>https://keeprick.github.io/post/better-call-saul-season-5/</id>
+        <link href="https://keeprick.github.io/post/better-call-saul-season-5/">
+        </link>
+        <updated>2020-03-07T15:37:05.000Z</updated>
+        <content type="html"><![CDATA[<p>曾经最喜欢，不，现在也喜欢的美剧，不知道为什么看完会有一种很安宁的感觉，像充满电。</p>
+<p>看完希望找到当年房贩子的感觉，每天很规律很高效的状态。像老黄前两天说的，先定个小目标，既然UVXY错失良机，那么，多吸取过去的失误，这也是博客产生的原因。</p>
+<pre><code>                                                             2020年3月7日夜</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[始于2020年3月6日晚]]></title>
         <id>https://keeprick.github.io/post/shi-yu-2020-nian-3-yue-6-ri-wan/</id>
