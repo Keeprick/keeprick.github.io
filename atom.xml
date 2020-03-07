@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://keeprick.github.io</id>
-    <title>梳理关键点、修正不足</title>
-    <updated>2020-03-07T03:21:22.997Z</updated>
+    <title>Keep Rick</title>
+    <updated>2020-03-07T03:24:22.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://keeprick.github.io"/>
     <link rel="self" href="https://keeprick.github.io/atom.xml"/>
     <subtitle>记录生活</subtitle>
     <logo>https://keeprick.github.io/images/avatar.png</logo>
     <icon>https://keeprick.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 梳理关键点、修正不足</rights>
+    <rights>All rights reserved 2020, Keep Rick</rights>
 </feed>
