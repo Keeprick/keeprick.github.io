@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://keeprick.github.io</id>
     <title> Keep Rick</title>
-    <updated>2020-06-23T15:27:06.763Z</updated>
+    <updated>2020-07-14T15:58:10.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://keeprick.github.io"/>
     <link rel="self" href="https://keeprick.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://keeprick.github.io/images/avatar.png</logo>
     <icon>https://keeprick.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020,  Keep Rick</rights>
+    <entry>
+        <title type="html"><![CDATA[反思，接着反思。]]></title>
+        <id>https://keeprick.github.io/post/fan-si-jie-zhao-fan-si/</id>
+        <link href="https://keeprick.github.io/post/fan-si-jie-zhao-fan-si/">
+        </link>
+        <updated>2020-07-14T15:41:39.000Z</updated>
+        <content type="html"><![CDATA[<p>翻看上次的记录，还提到间歇性的不忙，现在的我已经忘记不忙的时候的感觉了。真是每天疲于奔命，这样下去不是个办法，心情差，头发少，主要是没有时间去思考，思考未来规划，思考赚钱。这个状态太差，为了什么在这里耗下去，现在的经济性太差，宁愿少拿点工资，让我轻松一些。我真的是只适合找个闲工作，然后心情舒缓的去考虑副业，赚钱，获得快感。<br>
+上次周末看到各消息源，都感觉股市可以了，就关注下，想起来，之前下午看到刘冰请人吃饭带的茅台，感觉到茅台的1499营销很厉害，并且身边人的认可也足够，应该股票有戏，当时应该1200左右，计划下手，结果给忘记了，忘记了。然后B站也是，翻倍，都是当时有决定要买，结果各种忘记，没有买到，错失机会。这个问题之前反思过。还是要重视，别整天瞎忙到工作上，但是现在的工作有点陌生，吃力，不用精力完成不好，不像之前，纯混。然后股市开户也没成功，主要还是钱都给我妹买房了，也没有富裕，等月底钱到账吧。<br>
+还要弄点低息贷款，工行的可以，再开发渠道吧，抵押贷倒是低，但是弄起来有难度。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年已过半]]></title>
         <id>https://keeprick.github.io/post/jin-nian-yi-guo-ban/</id>
